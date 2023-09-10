@@ -1,0 +1,6 @@
+C:\Users\Shein\Desktop\triangulation\bin\Debug\triangulation.dll
+C:\Users\Shein\Desktop\triangulation\bin\Debug\triangulation.pdb
+C:\Users\Shein\Desktop\triangulation\obj\Debug\triangulation.csproj.AssemblyReference.cache
+C:\Users\Shein\Desktop\triangulation\obj\Debug\triangulation.csproj.CoreCompileInputs.cache
+C:\Users\Shein\Desktop\triangulation\obj\Debug\triangulation.dll
+C:\Users\Shein\Desktop\triangulation\obj\Debug\triangulation.pdb

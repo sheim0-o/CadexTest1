@@ -1,0 +1,33 @@
+.options {
+    display: flex;
+    position: fixed;
+    left: -15px;
+    top: -15px;
+    height: fit-content;
+    width: fit-content;
+    background-color: rgba(50, 50, 50, 90%);
+    padding: 30px 15px 15px 30px;
+    flex-direction: column;
+    border-radius: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.numberPicker {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-wrap: nowrap;
+    padding: 10px;
+}
+.numberPicker label{
+    padding-right: 10px;
+}
+
+.options button{
+    background: transparent;
+    border: 1px solid cyan;
+    border-radius: 5px;
+    color: white;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
